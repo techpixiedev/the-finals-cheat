@@ -8,7 +8,7 @@ Welcome to The Finals, a basic and ready-to-use C++ cheat framework base designe
 - Optimized for educational purposes to enhance understanding of C++ game hacking.
 - Compile in Release mode for x64 architecture.
 - Basic and ready to play – dive into learning without extensive setup.
-![The Finals Cheat Framework](https://i.imgur.com/EwOCb2k.gif)
+![The Finals Cheat Framework](thefinals.gif)
 
 
 ## Usage Guidelines
